@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Original Trombones Website 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Personal Project featuring Original Trombones Website.",
+    url: "https://github.com/awkward-abi/orginaltrombones",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Freecodecamp Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Lorem Ipsum Dolor Et All iscus.",
+    url: "https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage",
   },
   {
-    title: "My Resume Site",
+    title: "My LinkedIn Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and abilities.",
+    url: "https://www.linkedin.com/in/abigail-larupay-0b3b841b6/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "GitHub Account",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "My own github account where I post most of my projects.",
+    url: "https://github.com/awkward-abi",
   },
 ];
 
